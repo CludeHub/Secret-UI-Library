@@ -1,6 +1,7 @@
 # Secret-UI-Library
+lua'''
 local sex = loadstring(game:HttpGet('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Garry-UI/main/source'))()
-
+'''
 local Window = sex:Create('BEDOL HUB','BLADE BALL','TESTER')
 local ExampleTab = Window:CreateTab('Example','earth')
 
